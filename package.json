@@ -1,0 +1,9 @@
+{
+  "name": "so-hostname",
+  "title": "Hostnames and stuff",
+  "id": "so-hostname@tn123.org",
+  "description": "A basic demo add-on for http://stackoverflow.com/q/28223087/484441",
+  "author": "Nils Maier",
+  "license": "MIT",
+  "version": "0.1"
+}
